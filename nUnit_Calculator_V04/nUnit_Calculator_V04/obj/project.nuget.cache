@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymm9WUAZQFZ3PkWpZycz/9OiIvL33yGcdtLV+slqyvQmCFvoDv21H9+aRexiKg82QHWHv0nlf7tNB2Oj5CI/Eg==",
+  "success": true,
+  "projectFilePath": "C:\\working-directory\\c#NET\\c#Rider\\UnitTesting\\nUnit_Calculator_V04\\nUnit_Calculator_V04\\nUnit_Calculator_V04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-release-24177-07\\microsoft.codecoverage.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-release-24177-07\\microsoft.net.test.sdk.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\8.0.0-preview.7.23375.6\\microsoft.netcore.platforms.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0-release-24177-07\\microsoft.testplatform.objectmodel.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0-release-24177-07\\microsoft.testplatform.testhost.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\nunit.consolerunner\\3.17.0\\nunit.consolerunner.3.17.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0-preview.3.24172.9\\system.diagnostics.diagnosticsource.9.0.0-preview.3.24172.9.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
