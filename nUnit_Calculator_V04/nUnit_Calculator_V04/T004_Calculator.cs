@@ -13,8 +13,8 @@ public class T004_Calculator
     {
         // Arrange
         var calculator = new Calculator();
-        var x = 2;
-        var y = 3;
+        const int x = 2;
+        const int y = 3;
 
         // Act
         calculator.Add(x, y);
